@@ -1,4 +1,4 @@
-# vue-youtube
+# vue-todo-list
 
 ## Project setup
 ```
