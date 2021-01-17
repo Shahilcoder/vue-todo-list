@@ -1,4 +1,5 @@
 # vue-todo-list
+https://shahilsky.github.io/vue-todo-list/
 
 ## Project setup
 ```
